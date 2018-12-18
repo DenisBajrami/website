@@ -1,8 +1,8 @@
 # Sample Website
 
-This is a sample website made as part of [*DeveloperCase*](http://developercase.com/), 
+This is a sample website made as part of [*DeveloperCase*](https://denisbajrami.github.io/website/), 
 possibly the greatest beginner Git tutorial in the history of the Universe. You should totally 
-[check it out](http://developercase.com/), and be sure to 
+[check it out](https://denisbajrami.github.io/website/), and be sure to 
 [join the email list](http://developercase.com/#email_list) and 
 [follow @developercase](http://twitter.com/developercase) on Twitter.
 
