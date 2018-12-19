@@ -43,10 +43,11 @@
             }
             .bio-box {
                 border: 1px solid black;
+
                 box-sizing: border-box;
                 float: left;
                 margin: 3%;
-                padding: 0 2% 2%;
+                padding: 2%;
                 width: 20%;
             }
             .bio-box h3 {
@@ -73,6 +74,34 @@
             }
             .social-list > li {
                 display: inline-block;
+                margin: 0 0.5em;
+            }
+            .social-link {
+                background: rgba(150, 150, 150, 0.5);
+                border-radius: 99px;
+                box-sizing: border-box;
+                color: #fff;
+                display: inline-block;
+                font-family: helvetica, arial, sans;
+                font-size: 1rem;
+                font-weight: bold;
+                height: 2.5em;
+                line-height: 1;
+                padding-top: 0.85em;
+                text-align: center;
+                text-decoration: none;
+                vertical-align: middle;
+                width: 2.5em;
+            }
+            .social-link-personel{
+                background: rgba(150, 150, 150, 0.5);
+                border-radius: 100px;
+                box-sizing: border-box;
+                color: #fff;
+                display: inline-block;
+                height: 60%;
+                width: 35%;
+                padding: 6%;
             }
         </style>
     </head>
@@ -88,13 +117,13 @@
             <h1>First Salon</h1>
             <ul class="social-list">
                 <li>
-                    <a href="http://example.com/" style="color: red;">Link 1</a>
+                    <a href="http://example.com/" class="social-link">Fb</a>
                 </li>
                 <li>
-                    <a href="http://example.com/" style="color: red;">Link 2</a>
+                        <a href="http://example.com/" class="social-link">Tw</a>
                 </li>
                 <li>
-                    <a href="http://example.com/" style="color: red;">Link 3</a>
+                    <a href="http://example.com/" class="social-link">Gh</a>
                 </li>
             </ul>
         </div>
@@ -105,7 +134,7 @@
             <div class="bio-box">
                 <img src="images/139.jpeg">
                 <h3>Michael Hartl</h3>
-                <a href="http://twitter.com/mhartl" class="social-link">Check Twitter</a>
+                <a href="http://twitter.com/mhartl" class="social-link-personel">Check Twitter</a>
                 <div class="bio-copy">
                     <p>
                         Known for his dazzling charm, rapier wit, and unrivaled humility,
@@ -126,7 +155,7 @@
             <div class="bio-box">
                 <img src="images/140.jpeg">
                 <h3>Lee Donahoe</h3>
-                <a href="https://twitter.com/leedonahoe" class="social-link">Check Twitter</a>
+                <a href="https://twitter.com/leedonahoe" class="social-link-personel">Check Twitter</a>
                 <div class="bio-copy">
                     <p>
                         When he's not literally swimming with sharks or hunting powder stashes on
