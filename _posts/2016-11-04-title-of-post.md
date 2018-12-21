@@ -1,31 +1,30 @@
 ---
 layout: post
-title: This is the title of the second post
+title: This Price Chart Indicates Bitcoin’s Bulls Are Back in Business  
 postHero: /images/shark.jpg
-author: Me, Myself, and I
-authorTwitter: http://twitter.com/mhartl
-gravatar: https://gravatar.com/avatar/ffda7d145b83c4b118f982401f962ca6?s=150
+author: Denis Bajrami
+authorTwitter: https://twitter.com/coindesk
+
 postFooter: Additional information, and maybe a <a href="#">link or two</a>
 ---
 
-Call me *Ishmael*. Some years ago–*never mind how long
-precisely*–having little or no money in my purse, and nothing
-particular to interest me on shore, I thought I would sail about a little
-and see the watery part of the world. It is a way I have of driving off
-the spleen and regulating the circulation.
+Bitcoin (BTC) is looking increasingly bullish on a key technical chart following 
+its strong move above $4,000. The leading cryptocurrency by market value first 
+teased bullish reversal on Dec. 17 with the creation of an âoutside reversalâ 
+candle on the widely followed 3-day chart. The early indicator of a bearish-to-bullish 
+trend change, however, needed confirmation in the form of a positive follow-through.
+BTC, therefore, could rise to next major resistance of $4,400 in the near-term.
 
-<img class="pull-left" src="http://placekitten.com/g/400/200" alt="kitten">
+<img class="pull-left" src="https://s.yimg.com/it/api/res/1.2/x19vQYYHNWoXxV4jz41F_A--~A/YXBwaWQ9eW5ld3M7c209MTt3PTgwMA--/https://media.zenfs.com/en-US/coindesk_75/331d20765c5d560ef82ed16f7006e14a" alt="kitten">
 
-Whenever I find myself growing grim about the mouth; whenever it is a damp,
-drizzly November in my soul; whenever I find myself involuntarily pausing
-before coffin warehouses, and bringing up the rear of every funeral I meet;
-and especially whenever my hypos get such an upper hand of me, that it
-requires a strong moral principle to prevent me from deliberately stepping
-into the street, and methodically knocking people’s hats off—then, I
-account it high time to get to sea as soon as I can. This is my substitute
-for pistol and ball.
+Confirmation of the bearish-to-bullish trend change can be seen on the 3-day chart 
+above,Â where the last candle has endedÂ well above $3,590 âthe high of Monday’s 
+outside reversal candle.Other technical studies are also biased toward the bulls. 
+For instance, the 5- and 10-day EMAs are trending north and the 14-day RSI is holding well above 50.00.
 
-With a philosophical flourish Cato throws himself upon
-his sword; I quietly take to the ship. There is nothing surprising in this.
-If they but knew it, almost all men in their degree, some time or other,
-cherish very nearly the same feelings towards the ocean with me.
+View
+
+1. A bullish reversal is confirmed on the three-day chart.
+2. BTC could extend the ongoing rally to $4,400 in the next few days.
+3. A daily close below $3,633 would abort the bullish setup, although the probability 
+of a bearish close happening in the near term is low.
