@@ -7,7 +7,7 @@ function activateGallery() {
 
   thumbnails.forEach(function(thumbnail) {
     // Preload large images.
-    largeVersion = new Image()
+    largeVersion = new Image();
     largeVersion.src = thumbnail.dataset.largeVersion;
 
     thumbnail.addEventListener("click", function() {
@@ -21,10 +21,10 @@ function activateGallery() {
 
       // Update image info.
       let galleryInfo = document.querySelector("#gallery-info");
-      let title       = galleryInfo.querySelector(".title");
+      let title = galleryInfo.querySelector(".title");
       let description = galleryInfo.querySelector(".description");
 
-      title.innerHTML       = thumbnail.dataset.title;
+      title.innerHTML = thumbnail.dataset.title;
       description.innerHTML = thumbnail.dataset.description;
     });
   });
