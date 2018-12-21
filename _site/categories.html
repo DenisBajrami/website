@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Simple Website</title>
+        <meta charset="utf-8">
+        <style>
+            /* GLOBAL STYLES */
+            body {
+                background: aliceblue;
+                height: 100%;
+            }
+            a {
+                color: black;
+            }
+            .borderone {
+                background-color: #c7dbfc;
+                height: 20vh;
+                display: inline-block;
+                margin: 20px;
+                width: 300px;
+            }
+
+            /* SOCIAL STYLES */
+            .social-link {
+                background: rgba(150, 150, 150, 0.30);
+                color: blue;
+                display: inline-block;
+            }
+
+            /* BIO STYLES */
+            .bio-wrapper {
+                font-size: 18px;
+                width: 100%;
+                overflow: hidden;
+            }
+            .bio-wrapper:after {
+                visibility: hidden;
+                display: block;
+                font-size: 0;
+                content: " ";
+                clear: both;
+                height: 0;
+            }
+            .bio-box {
+                border: 1px solid black;
+
+                box-sizing: border-box;
+                float: left;
+                margin: 3%;
+                padding: 2%;
+                width: 20%;
+            }
+            .bio-box h3 {
+                color: #fff;
+                font-size: 1.5em;
+                margin: -40px 0 1em;
+                text-align: center;
+            }
+            .bio-box img {
+                width: 100%;
+            }
+            .alert {
+                background: red;
+            }
+            .bio-copy a {
+                color: rgba(28, 238, 68, 0.94);
+            }
+
+            /* SOCIAL LINKS */
+            .social-list {
+                list-style: none;
+                padding: 0;
+                text-align: center;
+            }
+            .social-list > li {
+                display: inline-block;
+                margin: 0 0.5em;
+            }
+            .social-link {
+                background: rgba(150, 150, 150, 0.5);
+                border-radius: 99px;
+                box-sizing: border-box;
+                color: #fff;
+                display: inline-block;
+                font-family: helvetica, arial, sans;
+                font-size: 1rem;
+                font-weight: bold;
+                height: 2.5em;
+                line-height: 1;
+                padding-top: 0.85em;
+                text-align: center;
+                text-decoration: none;
+                vertical-align: middle;
+                width: 2.5em;
+            }
+            .social-link-personel{
+                background: rgba(150, 150, 150, 0.5);
+                border-radius: 100px;
+                box-sizing: border-box;
+                color: #fff;
+                display: inline-block;
+                height: 60%;
+                width: 35%;
+                padding: 6%;
+            }
+        </style>
+    </head>
+    <body>
+        <div style="text-align: right;">
+            <a href="index.html">Homepage</a>
+            <a href="bookStory.html" style="margin: 0 0 0 20px;">Book Story</a>
+            <a href="categories.html" style="margin: 0 0 0 20px;">Salon Store</a>
+            <a href="navigation.html" style="margin: 0 0 0 20px;">Navigation Tags</a>
+        </div>
+
+        <div class="borderone">
+            <h1>First Salon</h1>
+            <ul class="social-list">
+                <li>
+                    <a href="http://example.com/" class="social-link">Fb</a>
+                </li>
+                <li>
+                        <a href="http://example.com/" class="social-link">Tw</a>
+                </li>
+                <li>
+                    <a href="http://example.com/" class="social-link">Gh</a>
+                </li>
+            </ul>
+        </div>
+
+        <h2>Second Salon</h2>
+
+        <div class="bio-wrapper">
+            <div class="bio-box">
+                <img src="images/139.jpeg">
+                <h3>Michael Hartl</h3>
+                <a href="http://twitter.com/mhartl" class="social-link-personel">Check Twitter</a>
+                <div class="bio-copy">
+                    <p>
+                        Known for his dazzling charm, rapier wit, and unrivaled humility,
+                        Michael is the creator of the
+                        <a href="http://railstutorial.org/">Ruby on Rails
+                            Tutorial</a> and principal author of the
+                        <a href="https://learnenough.com/">
+                            Learn Enough to Be Dangerous</a> introductory sequence. Michael
+                        is also notorious as the founder of
+                        <a href="http://tauday.com/">Tau Day</a> and author of
+                        <a href="http://tauday.com/tau-manifesto"><em>The Tau
+                            Manifesto</em></a>, but rumors that he's secretly a supervillain
+                        are slightly exaggerated.
+                    </p>
+                </div>
+            </div>
+
+            <div class="bio-box">
+                <img src="images/140.jpeg">
+                <h3>Lee Donahoe</h3>
+                <a href="https://twitter.com/leedonahoe" class="social-link-personel">Check Twitter</a>
+                <div class="bio-copy">
+                    <p>
+                        When he's not literally swimming with sharks or hunting powder stashes on
+                        his snowboard, you can find Lee in front of his computer designing
+                        interfaces, doing front-end development, or writing some of the
+                        interface-related Learn Enough tutorials.
+                    </p>
+                </div>
+            </div>
+
+            <div class="bio-box">
+                <img src="images/141.jpeg">
+                <h3>??</h3>
+                <a href="http://example.com/" style="color: black;"></a>
+                <div class="bio-copy">
+                    <p>
+                        The Future
+                    </p>
+                </div>
+            </div>
+            <div class="bio-box alert">
+                <a href="http://example.com/" style="color: black;">I'm a fourth Freelancer</a>
+            </div>
+        </div>
+    </body>
+</html>
