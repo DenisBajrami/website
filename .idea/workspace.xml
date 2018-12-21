@@ -2,65 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60e7c4d9-6317-4c8f-aa23-c809c0eb3634" name="Default Changelist" comment="Adding style to pages">
-      <change afterPath="$PROJECT_DIR$/_site/fonts/font-awesome-4.7.0/HELP-US-OUT.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/fonts/font-awesome-4.7.0/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/fonts/font-awesome-4.7.0/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/fonts/font-awesome-4.7.0/less/animated.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/fonts/font-awesome-4.7.0/less/bordered-pulled.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/fonts/font-awesome-4.7.0/less/core.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/fonts/font-awesome-4.7.0/less/fixed-width.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/fonts/font-awesome-4.7.0/less/font-awesome.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/fonts/font-awesome-4.7.0/less/icons.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/fonts/font-awesome-4.7.0/less/larger.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/fonts/font-awesome-4.7.0/less/list.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/fonts/font-awesome-4.7.0/less/mixins.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/fonts/font-awesome-4.7.0/less/path.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/fonts/font-awesome-4.7.0/less/rotated-flipped.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/fonts/font-awesome-4.7.0/less/screen-reader.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/fonts/font-awesome-4.7.0/less/stacked.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/fonts/font-awesome-4.7.0/less/variables.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/fonts/font-awesome-4.7.0/scss/font-awesome.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/large/beach.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/large/boat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/large/bug.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/large/desert.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/large/disney.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/large/fish.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/large/flavian.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/large/huntington.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/large/orchid.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/large/pantheon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/large/shark.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/large/slide1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/large/snow.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/large/sunset.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/large/turtle.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/shark.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/small/beach.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/small/boat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/small/bug.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/small/desert.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/small/disney.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/small/fish.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/small/flavian.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/small/huntington.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/small/orchid.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/small/pantheon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/small/shark.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/small/slide1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/small/snow.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/small/sunset.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/small/turtle.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,28 +14,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/header.html">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/main.css">
+        <entry file="file://$PROJECT_DIR$/_includes/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="78" column="1" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="358">
+              <caret line="168" lean-forward="true" selection-start-line="168" selection-end-line="168" />
             </state>
           </provider>
         </entry>
@@ -129,14 +72,15 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/_site/index.html" />
-        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/_site/categories.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/_site/gallery/index.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="1920" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
@@ -157,7 +101,12 @@
             <path>
               <item name="website" type="b2602c69:ProjectViewProjectNode" />
               <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="_site" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="gallery" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -174,16 +123,17 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/" />
-      <recent name="$PROJECT_DIR$/_includes" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/" />
       <recent name="$PROJECT_DIR$/_includes" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/_site/images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_site" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/" />
+      <recent name="$PROJECT_DIR$/_includes" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -292,10 +242,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37660000" />
+    <option name="totallyTimeSpent" value="39132000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="23" width="1440" height="810" extended-state="6" />
+    <frame x="1920" y="23" width="1440" height="810" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
@@ -405,7 +355,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/_includes/head.html" />
-    <entry file="file://$PROJECT_DIR$/fonts/font-awesome-4.7.0/css/font-awesome.css" />
     <entry file="file://$PROJECT_DIR$/images/logo.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -477,26 +426,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/js/gallery.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/apple-touch-icon.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_site/favicon.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="78" column="1" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/js/gallery.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fonts/font-awesome-4.7.0/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/js/gallery.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/header.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -504,6 +452,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/gallery/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2685">
+          <caret line="179" lean-forward="true" selection-start-line="179" selection-end-line="179" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="168" lean-forward="true" selection-start-line="168" selection-end-line="168" />
         </state>
       </provider>
     </entry>
